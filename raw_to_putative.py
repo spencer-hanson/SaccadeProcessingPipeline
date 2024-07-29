@@ -95,7 +95,7 @@ def process_folder(foldername, data, prefix, outputdir):
     fp.close()
 
 def main():
-    prefix = "data/"
+    prefix = "data/"  # TODO Change me to dir of sessions
     outputdir = "putative_output"
 
     datafiles = search_for_data(prefix)
