@@ -1,0 +1,5 @@
+.idea
+*.nwb
+data/*
+tmpdir/*
+putative_output/*
